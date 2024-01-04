@@ -1,0 +1,17 @@
+.menu-orders{
+    color: #106eea !important;
+    font-size: 17px !important;
+}
+
+.menu-orders:hover{
+    background-color: rgba(0, 0, 0, 0.04);
+}
+
+.menu-list-orders{
+    padding-left:20px;
+}
+
+.orders-list{
+    font-size: 13px !important;
+    color:#000;
+}
